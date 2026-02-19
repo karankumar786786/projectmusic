@@ -8,6 +8,7 @@ A full-stack music streaming platform built with modern web technologies, offeri
 ![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-green?style=for-the-badge&logo=supabase)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 
+
 <p align="center">
   <img src="previews/Homepage.png" alt="One Melody Homepage" width="100%">
 </p>
